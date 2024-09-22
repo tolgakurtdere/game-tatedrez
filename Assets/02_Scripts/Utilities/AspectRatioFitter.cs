@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TK.Utility
+namespace TK
 {
     [RequireComponent(typeof(Camera))]
     public class AspectRatioFitter : MonoBehaviour
